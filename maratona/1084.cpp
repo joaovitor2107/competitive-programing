@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include <cstdlib>
 using namespace std;
 
 int main(int argc, char *argv[]) {
@@ -47,7 +48,6 @@ int main(int argc, char *argv[]) {
   }
 
   // tem que criar uma pilha e add os elemento no inicio, caso achemos um elemento maior que o do topo da pilha e ainda tenhamos espaço de n - d, estouramos e substituimos
-
 
 
   return 0;
